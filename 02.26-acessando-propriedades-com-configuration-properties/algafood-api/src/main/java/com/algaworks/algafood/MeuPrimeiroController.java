@@ -10,6 +10,7 @@ import com.algaworks.algafood.di.service.AtivacaoClienteService;
 @Controller
 public class MeuPrimeiroController {
 
+	//teste 
 	private AtivacaoClienteService ativacaoClienteService;
 	
 	public MeuPrimeiroController(AtivacaoClienteService ativacaoClienteService) {
